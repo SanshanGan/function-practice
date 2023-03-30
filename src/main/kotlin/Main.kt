@@ -2,5 +2,5 @@ fun main(args: Array<String>) {
     println("Hello World!")
     println("Program arguments: ${args.joinToString()}")
 
-    println( double(3))
+    println(double(3))
 }
