@@ -1,7 +1,5 @@
 package basic
 
-class variable_arithmetic {
-}
 
 fun main(){
 
